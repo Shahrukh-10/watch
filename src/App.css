@@ -1,0 +1,9 @@
+.App {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+
+  margin-top: 20%;
+  font-size: 8rem;
+}
+
